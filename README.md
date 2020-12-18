@@ -541,12 +541,9 @@ U也是参考借鉴了诸多大佬的优秀文章, 写的有误的地方还请�
 本文首发于[UU的GitHub](https://github.com/UU-GIT/vue-router-source-analysis),转载请注明出处哦,感谢支持~
 
 ## 关注UU
-关注我的公众号`【前端UU】`,定期获取好文推荐哟～
+大家也可以关注我的公众号`【前端UU】`,定期获取好文推荐哟～
 
 ![图一](https://github.com/UU-GIT/vue-router-source-analysis/blob/master/images/qrcode.jpg)
-
-如果文章对您有微微帮助,请帮忙`【转发】`
-如果同是天涯沦落前端人,请点亮`【在看】`
 
 ## 参考文章
 1. [Vue\.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/v2/vue-router)
